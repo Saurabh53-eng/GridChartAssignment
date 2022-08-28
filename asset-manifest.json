@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GridChartAssignment/static/css/main.195d2f67.css",
-    "main.js": "/GridChartAssignment/static/js/main.9e8a0cb2.js",
+    "main.js": "/GridChartAssignment/static/js/main.321650ba.js",
     "static/js/787.602d7bac.chunk.js": "/GridChartAssignment/static/js/787.602d7bac.chunk.js",
     "index.html": "/GridChartAssignment/index.html",
     "main.195d2f67.css.map": "/GridChartAssignment/static/css/main.195d2f67.css.map",
-    "main.9e8a0cb2.js.map": "/GridChartAssignment/static/js/main.9e8a0cb2.js.map",
+    "main.321650ba.js.map": "/GridChartAssignment/static/js/main.321650ba.js.map",
     "787.602d7bac.chunk.js.map": "/GridChartAssignment/static/js/787.602d7bac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.195d2f67.css",
-    "static/js/main.9e8a0cb2.js"
+    "static/js/main.321650ba.js"
   ]
 }
